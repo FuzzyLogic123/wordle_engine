@@ -6,7 +6,7 @@ from random import choice
 # failed = ['crawl', 'crazy', 'fixer', 'foyer', 'gazer', 'graze', 'growl', 'gully', 'haunt', 'hilly', 'holly', 'hound', 'irate', 'joker', 'jolly', 'latch', 'maker', 'mammy', 'miner', 'moist', 'munch', 'offer', 'older', 'patch', 'payer', 'pound', 'rower', 'safer', 'savor', 'shape', 'shave', 'super', 'swear', 'tatty', 'taunt', 'truth', 'udder', 'vaunt', 'waste', 'watch', 'wight', 'willy', 'witch', 'witty', 'wooer', 'wound']
 answer = choice(legal_words)
 # answer = choice(failed)
-answer = 'hover'
+# answer = 'hover'
 
 
 user_guesses_count = 0
